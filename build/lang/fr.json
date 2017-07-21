@@ -564,7 +564,7 @@
     "mm.login.firsttime": "Première visite sur ce site ?",
     "mm.login.getanothercaptcha": "Obtenir un nouveau CAPTCHA",
     "mm.login.help": "Aide",
-    "mm.login.helpmelogin": "<p>Il existe plusieurs milliers de sites Moodle dans le monde. Cette app vous permet de vous connecter aux sites Moodle qui ont explicitement activé l'accès via l'app mobile.</p><p>Si vous ne pouvez pas vous connecter à votre site Moodle, veuillez contacter son administrateur local et lui demander de lire <a href=\"http://docs.moodle.org/en/Mobile_app\" target=\"_blank\">http://docs.moodle.org/en/Mobile_app</a></p><p>Pour tester l'app dans une plateforme Moodle de démonstration, tapez <i>teacher</i> ou <i>student</i> dans le champ <i>Adresse du site</i> et tapoter le <b>bouton de connexion</b>.</p>",
+    "mm.login.helpmelogin": "<p>Il existe plusieurs milliers de sites Moodle dans le monde. Cette app vous permet de vous connecter aux sites Moodle qui ont explicitement activé l'accès via l'app mobile.</p><p>Si vous ne pouvez pas vous connecter à votre site university, veuillez contacter son administrateur local et lui demander de lire <a href=\"http://docs.moodle.org/en/Mobile_app\" target=\"_blank\">http://docs.moodle.org/en/Mobile_app</a></p><p>Pour tester l'app dans une plateforme Moodle de démonstration, tapez <i>teacher</i> ou <i>student</i> dans le champ <i>Adresse du site</i> et tapoter le <b>bouton de connexion</b>.</p>",
     "mm.login.instructions": "Instructions",
     "mm.login.invalidaccount": "Veuillez vérifier vos données de connexion ou demander à l'administrateur de votre site de vérifier sa configuration.",
     "mm.login.invaliddate": "Date non valide",

@@ -260,7 +260,7 @@
     "mm.login.firsttime": "Este prima oară când accesaţi această pagină?",
     "mm.login.getanothercaptcha": "Obţineţi un alt CAPTCHA",
     "mm.login.help": "Ajutor",
-    "mm.login.helpmelogin": "<p> Există mii de siteuri Moodle în întreaga lume. Această aplicație vă poate conecta doar la acele siteuri ce oferă accesul pentru aplicațiile mobile.</p><p> Dacă nu vă puteți conecta la siteul Moodle va trebui să contactați un administrator al acelui site și să îi indicați să citească <a href=\"http://docs.moodle.org/en/Mobile_app\" target=\"_blank\">http://docs.moodle.org/en/Mobile_app</a></p><p> Pentru a testa aplicația pe un site Moodle demonstrativ introduceți <i>teacher</i> sau <i>student</i> în câmpurile din siteul<i> URL site</i> și apăsați butonul <b>Adaugă</b>.</p>",
+    "mm.login.helpmelogin": "<p> Există mii de siteuri Moodle în întreaga lume. Această aplicație vă poate conecta doar la acele siteuri ce oferă accesul pentru aplicațiile mobile.</p><p> Dacă nu vă puteți conecta la siteul Moodle va trebui să contactați un administrator al acelui site și să îi indicați să citească <a href=\"http://docs.moodle.org/en/Mobile_app\" target=\"_blank\">http://docs.moodle.org/en/Mobile_app</a></p><p> Pentru a testa aplicația pe un site university demonstrativ introduceți <i>teacher</i> sau <i>student</i> în câmpurile din siteul<i> URL site</i> și apăsați butonul <b>Adaugă</b>.</p>",
     "mm.login.instructions": "Instrucţiuni",
     "mm.login.invalidaccount": "Vă rugă să verificați datele de conectare sau rugați administratorul siteului sa verifice configurația siteului.",
     "mm.login.invalidemail": "Adresă de email incorectă",
