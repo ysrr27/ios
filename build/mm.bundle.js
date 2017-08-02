@@ -59905,8 +59905,8 @@ angular.module('mm.core')
 .constant('mmCoreConfigConstants', {
     "app_id" : "com.university.iLernus",
     "appname": "iLernus",
-    "versioncode" : "20180",
-    "versionname" : "1.0.1",
+    "versioncode" : "20182",
+    "versionname" : "1.0.2",
     "cache_expiration_time" : 300000,
     "default_lang" : "es",
     "languages": {"ar": "عربي", "bg": "Български", "ca": "Català", "cs": "Čeština", "da": "Dansk", "de": "Deutsch", "el": "Ελληνικά", "en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "فارسی", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "ja": "日本語","nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "pt": "Português - Portugal", "ro": "Română", "ru": "Русский", "sv": "Svenska", "tr" : "Türkçe", "uk" : "Українська", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
